@@ -1,0 +1,8 @@
+DECoMA is the abbreviation for Data Estimation and Conversion for Meta-Analysis, which is a free available Microsoft Office Excel file with Excel-macros for estimating sample mean and standard deviation (SD). 
+It is developed by methodology team members in the Cochrane Taiwan and Wan Fang Hospital. 
+Current version consists of 10 common circustances with solutions for finding mean or SD for meta-analysis. 
+First five circustances can be used when you have descriptive statistics of a research group. 
+Rest five circustances can be used when you have effect estimates with other statistics of two group comparison. 
+
+To confirm the appropriateness of the senarios and formula, task force of the DECoMA have sent it for external review by an academic journal (accepted). 
+Chi, KY., Li, MY., Chen, C. et al. Ten circumstances and solutions for finding the sample mean and standard deviation for meta-analysis. Syst Rev 12, 62 (2023). https://doi.org/10.1186/s13643-023-02217-1
